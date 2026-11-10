@@ -1,0 +1,38 @@
+CAREERNEST – PROJECT PROPOSAL
+
+1. Project Title
+CareerNest: Student Career and Job Recommendation Dashboard
+
+2. Introduction
+CareerNest is a data analytics project designed to organize student profiles, skills, job opportunities, saved jobs, applications, and resume information. It uses data analysis and visualization to present useful insights for students and placement coordinators.
+
+3. Problem Statement
+Students often find it difficult to track suitable job opportunities, application progress, skill requirements, and resume readiness in one place. CareerNest brings these datasets together and presents them in an understandable dashboard.
+
+4. Objectives
+• Analyze student education, skills, preferred roles, and job-search status.
+• Study available jobs, companies, locations, and required skills.
+• Track saved jobs and application statuses.
+• Examine resume scores and profile completion.
+• Build charts and a Power BI dashboard to support decisions.
+
+5. Dataset
+The supplied CareerNest_Dataset.xlsx workbook contains these sheets: Students, Jobs, Saved Jobs, Applications, Notifications, Resumes, Courses, Interview Questions, and Job Skills.
+
+6. Methodology
+Data collection → data inspection → cleaning → analysis → visualization → dashboard creation.
+Python libraries: pandas, matplotlib, and openpyxl. Power BI is used for the interactive dashboard.
+
+7. Expected Outcome
+A cleaned dataset, analysis summaries, visual charts, and an interactive dashboard showing student/job/application/resume insights.
+
+8. Tools and Technologies
+Python, Pandas, Matplotlib, Microsoft Excel, Microsoft Power BI, and GitHub.
+
+9. Team Details
+Team Member 1: Goka Rachanasri   Roll Number: 2503a52348
+Team Member 2: Nagapuri Neeraja  Roll Number: 2503a52336
+Team Member 3: Sanga Anusha      Roll Number: 2503a52352
+
+10. Note
+Replace the team details and add screenshots/results from the final Power BI dashboard before submission.

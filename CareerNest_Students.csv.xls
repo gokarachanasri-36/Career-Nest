@@ -1,0 +1,31 @@
+Student ID,Name,Education,Technical Skills,Soft Skills,Experience,Preferred Job,Location,Resume Score,Status
+1001,Anusha,B.Tech CSE,"Python, HTML, CSS, SQL","Communication, Teamwork",Fresher,Python Developer,Hyderabad,82,Looking for Job
+1002,Priya,B.Tech IT,"Java, SQL, JavaScript","Leadership, Communication",Fresher,Web Developer,Bangalore,78,Looking for Job
+1003,Keerthi,B.Tech CSE,"Python, ML, Pandas","Problem Solving, Teamwork",1 Year,Data Analyst,Chennai,88,Open to Jobs
+1004,Sneha,B.Tech ECE,"C, Python, Embedded C","Creativity, Communication",Fresher,Software Engineer,Hyderabad,75,Looking for Job
+1005,Divya,B.Tech CSE,"Java, Spring, SQL","Leadership, Teamwork",2 Years,Java Developer,Pune,91,Open to Jobs
+1006,Harika,B.Tech CSE,"Python, AI, ML","Research, Communication",Fresher,AI Intern,Hyderabad,84,Internship
+1007,Kavya,BCA,"HTML, CSS, JavaScript","Creativity, Teamwork",Fresher,Frontend Developer,Chennai,79,Looking for Job
+1008,Anjali,B.Tech IT,"Python, SQL, Power BI","Communication, Analysis",1 Year,Data Analyst,Bangalore,87,Open to Jobs
+1009,Riya,B.Tech CSE,"C++, Python, DSA","Problem Solving, Teamwork",Fresher,Software Developer,Hyderabad,81,Looking for Job
+1010,Meghana,B.Tech CSE,"Python, Django, SQL","Leadership, Communication",1 Year,Backend Developer,Pune,89,Open to Jobs
+1011,Swathi,B.Tech CSE,"Java, HTML, CSS","Communication, Creativity",Fresher,Java Developer,Hyderabad,76,Looking for Job
+1012,Pooja,B.Tech IT,"Python, Tableau, SQL","Analytical Thinking, Teamwork",Fresher,Data Analyst,Bangalore,85,Looking for Job
+1013,Nandini,B.Tech CSE,"C, C++, DSA","Problem Solving, Leadership",Fresher,Software Engineer,Chennai,80,Looking for Job
+1014,Aishwarya,B.Tech ECE,"Python, IoT, C","Creativity, Teamwork",1 Year,IoT Developer,Hyderabad,83,Open to Jobs
+1015,Bhavya,BCA,"JavaScript, React, HTML","Communication, Creativity",Fresher,React Developer,Bangalore,86,Looking for Job
+1016,Lakshmi,B.Tech CSE,"Python, Flask, SQL","Teamwork, Communication",Fresher,Python Developer,Pune,81,Looking for Job
+1017,Tejaswini,B.Tech IT,"Java, Spring Boot, SQL","Leadership, Problem Solving",2 Years,Backend Developer,Hyderabad,92,Open to Jobs
+1018,Sravani,B.Tech CSE,"Python, Excel, SQL","Analytical Thinking, Communication",Fresher,Data Analyst,Chennai,84,Looking for Job
+1019,Ramya,B.Tech CSE,"HTML, CSS, JavaScript, React","Creativity, Teamwork",1 Year,Frontend Developer,Hyderabad,88,Open to Jobs
+1020,Vaishnavi,B.Tech IT,"Python, ML, TensorFlow","Research, Problem Solving",Fresher,ML Engineer,Bangalore,90,Looking for Job
+1021,Sowmya,B.Tech CSE,"C++, Java, DSA","Leadership, Communication",Fresher,Software Developer,Pune,77,Looking for Job
+1022,Manasa,B.Tech CSE,"Python, Django, REST API","Teamwork, Problem Solving",1 Year,Backend Developer,Hyderabad,86,Open to Jobs
+1023,Teja,B.Tech IT,"SQL, Power BI, Excel","Analytical Thinking, Communication",Fresher,Data Analyst,Chennai,83,Looking for Job
+1024,Deepika,B.Tech CSE,"Java, SQL, Spring","Teamwork, Leadership",1 Year,Java Developer,Bangalore,89,Open to Jobs
+1025,Hema,B.Tech CSE,"Python, HTML, CSS","Communication, Creativity",Fresher,Web Developer,Hyderabad,80,Looking for Job
+1026,Sushmitha,B.Tech ECE,"Python, MATLAB, IoT","Research, Teamwork",Fresher,IoT Engineer,Chennai,78,Internship
+1027,Nikitha,B.Tech CSE,"React, JavaScript, Node.js","Creativity, Communication",1 Year,Full Stack Developer,Bangalore,91,Open to Jobs
+1028,Shreya,BCA,"Python, SQL, Excel","Communication, Analysis",Fresher,Data Analyst,Hyderabad,79,Looking for Job
+1029,Archana,B.Tech IT,"Java, Python, SQL","Teamwork, Leadership",Fresher,Software Engineer,Pune,85,Looking for Job
+1030,Monica,B.Tech CSE,"Python, AI, NLP","Research, Problem Solving",1 Year,AI Developer,Hyderabad,93,Open to Jobs
